@@ -9,4 +9,3 @@ Bu projede;
 # :sunny: Proje 23 (501) Entity Framework Metotları ve Linq Sorgular
 Bu projede; 
 
-![FrmStatistic](https://github.com/DemirbasAlperen/CSharpEgitimKampi301/blob/master/FrmStatistic.png?raw=true)

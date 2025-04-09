@@ -6,3 +6,7 @@ Merhabalar. Bu repomda Murat Yücedağ'ın YouTube kanalında vermiş olduğu C#
 # :sunny: Proje 22 (501) C# ile Dapper Kullanımı
 Bu projede;    
 
+# :sunny: Proje 23 (501) Entity Framework Metotları ve Linq Sorgular
+Bu projede; 
+
+![FrmStatistic](https://github.com/DemirbasAlperen/CSharpEgitimKampi301/blob/master/FrmStatistic.png?raw=true)

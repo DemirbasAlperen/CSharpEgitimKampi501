@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\alper\\Desktop\\CSharp_Kampi\\CSharpEgitimKampi501\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88AA7928-C693-4247-9E80-E80E64F55DDC}|CSharpEgitimKampi501\\CSharpEgitimKampi501.csproj|c:\\users\\alper\\desktop\\csharp_kampi\\csharpegitimkampi501\\csharpegitimkampi501\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88AA7928-C693-4247-9E80-E80E64F55DDC}|CSharpEgitimKampi501\\CSharpEgitimKampi501.csproj|solutionrelative:csharpegitimkampi501\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88AA7928-C693-4247-9E80-E80E64F55DDC}|CSharpEgitimKampi501\\CSharpEgitimKampi501.csproj|c:\\users\\alper\\desktop\\csharp_kampi\\csharpegitimkampi501\\csharpegitimkampi501\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88AA7928-C693-4247-9E80-E80E64F55DDC}|CSharpEgitimKampi501\\CSharpEgitimKampi501.csproj|solutionrelative:csharpegitimkampi501\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88AA7928-C693-4247-9E80-E80E64F55DDC}|CSharpEgitimKampi501\\CSharpEgitimKampi501.csproj|C:\\Users\\alper\\Desktop\\CSharp_Kampi\\CSharpEgitimKampi501\\csharpegitimkampi501\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{88AA7928-C693-4247-9E80-E80E64F55DDC}|CSharpEgitimKampi501\\CSharpEgitimKampi501.csproj|solutionrelative:csharpegitimkampi501\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{88AA7928-C693-4247-9E80-E80E64F55DDC}|CSharpEgitimKampi501\\CSharpEgitimKampi501.csproj|C:\\Users\\alper\\Desktop\\CSharp_Kampi\\CSharpEgitimKampi501\\csharpegitimkampi501\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AA7928-C693-4247-9E80-E80E64F55DDC}|CSharpEgitimKampi501\\CSharpEgitimKampi501.csproj|solutionrelative:csharpegitimkampi501\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88AA7928-C693-4247-9E80-E80E64F55DDC}|CSharpEgitimKampi501\\CSharpEgitimKampi501.csproj|C:\\Users\\alper\\Desktop\\CSharp_Kampi\\CSharpEgitimKampi501\\csharpegitimkampi501\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,17 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\alper\\Desktop\\CSharp_Kampi\\CSharpEgitimKampi501\\CSharpEgitimKampi501\\Form1.cs",
               "RelativeDocumentMoniker": "CSharpEgitimKampi501\\Form1.cs",
               "ToolTip": "C:\\Users\\alper\\Desktop\\CSharp_Kampi\\CSharpEgitimKampi501\\CSharpEgitimKampi501\\Form1.cs",
               "RelativeToolTip": "CSharpEgitimKampi501\\Form1.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAcwFIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAUwFIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T02:26:00Z",
               "EditorCaption": ""
@@ -115,14 +115,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\alper\\Desktop\\CSharp_Kampi\\CSharpEgitimKampi501\\CSharpEgitimKampi501\\Form1.cs",
               "RelativeDocumentMoniker": "CSharpEgitimKampi501\\Form1.cs",
               "ToolTip": "C:\\Users\\alper\\Desktop\\CSharp_Kampi\\CSharpEgitimKampi501\\CSharpEgitimKampi501\\Form1.cs [Design]",
               "RelativeToolTip": "CSharpEgitimKampi501\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T15:37:39.904Z"
+              "WhenOpened": "2025-03-06T15:37:39.904Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
